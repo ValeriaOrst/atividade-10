@@ -219,3 +219,11 @@ figure img{
   padding: 40px;
 }
 
+#descricao ol ul{
+  padding-left: 30px;
+}
+
+#descricao ol ol{
+  padding-left: 30px;
+}
+
