@@ -188,10 +188,13 @@ figure img{
 
 #descricao {
   margin: 100px 0;
-  padding: 30px;
+  padding: 40px;
   border: 1px solid black;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.4);
+  color: black;
+
 }
+
 
 #acesso{
   padding: 30px 60px;
@@ -212,11 +215,9 @@ figure img{
 
 /*******Livro********/
 
-#descricao{
-  margin: 100px 0;
-  width: 500px;
-  color: black;
-  padding: 40px;
+
+#second div#descricao {
+  padding-right: 300px;
 }
 
 #descricao ol ul{
